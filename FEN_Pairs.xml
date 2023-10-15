@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pairs>
+    <!--Понеділок-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Управління брендом роботодавця (мен.)</disciplin>
+        <teacher>асист. Юрченко Я.В.</teacher>
+        <day>1</day>
+        <time>8:30 - 9:50</time>
+        <weeks>3-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Макро- та мікроеконом. моделюв. (екон.)</disciplin>
+        <teacher>ст.викл. Яценко Г.Ю.</teacher>
+        <day>1</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Моделювання та управління фінансовими активами (фін.)</disciplin>
+        <teacher>проф. Долінський Л.Б.</teacher>
+        <day>1</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Маркетинг впливу (мар.) (Custumer experience)</disciplin>
+        <teacher>ст.викл. Мехед Т.М.</teacher>
+        <day>1</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Моделювання та управління фінансовими активами (фін.)</disciplin>
+        <teacher>проф. Долінський Л.Б.</teacher>
+        <day>1</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Маркетинг впливу (мар.) (Custumer experience)</disciplin>
+        <teacher>ст.викл. Мехед Т.М.</teacher>
+        <day>1</day>
+        <time>11:40 - 13:00</time>
+        <weeks>2,3,4</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Моделювання та управління фінансовими активами (фін.)</disciplin>
+        <teacher>проф. Долінський Л.Б.</teacher>
+        <day>1</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Маркетинг І (маркетинг)</disciplin>
+        <teacher>ст. викл. Демчук З.О., Мельник В.В.</teacher>
+        <day>1</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Основи соціології (ек)</disciplin>
+        <teacher>ст.викл. Артикуца С.С.</teacher>
+        <day>1</day>
+        <time>15:00 - 16:20</time>
+        <weeks>3-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Основи соціології (ек)</disciplin>
+        <teacher>ст.викл. Артикуца С.С.</teacher>
+        <day>1</day>
+        <time>16:30 - 17:50</time>
+        <weeks>3</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--Вівторок-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Digital – маркетинг (марк.)</disciplin>
+        <teacher>доц. Пічик К.В., доц. Козченко Я.В., ст.викл. Мельник В.В.</teacher>
+        <day>2</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Маркетинг (менеджмент)</disciplin>
+        <teacher>ст.викл. Бурбело Н.О.</teacher>
+        <day>2</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Гроші та кредит (фін.+мар.)</disciplin>
+        <teacher>доц. Глущенко С.В.</teacher>
+        <day>2</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-13</weeks>
+        <audience>6-204</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Гроші та кредит (екон.)</disciplin>
+        <teacher>проф. Кужелєв М.О.</teacher>
+        <day>2</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Гроші та кредит (фін.+мар.)</disciplin>
+        <teacher>доц. Глущенко С.В.</teacher>
+        <day>2</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1,2,3</weeks>
+        <audience>6-204</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Гроші та кредит (мен.)</disciplin>
+        <teacher>проф. Кужелєв М.О.</teacher>
+        <day>2</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1-13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Гроші та кредит (мен.)</disciplin>
+        <teacher>проф. Кужелєв М.О.</teacher>
+        <day>2</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1,2,3</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+
+    <!--Середа-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Менеджмент (економ. теор.)</disciplin>
+        <teacher>проф. Ігнатьєва І.А.</teacher>
+        <day>3</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Корпоративні фінанси (фін.)</disciplin>
+        <teacher>доц. Прімєрова О.К.</teacher>
+        <day>3</day>
+        <time>8:30 - 9:50</time>
+        <weeks>2,3,7,10,11,12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Менеджмент (економ. теор.)</disciplin>
+        <teacher>проф. Ігнатьєва І.А.</teacher>
+        <day>3</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Менеджмент (економ. теор.)</disciplin>
+        <teacher>проф. Ігнатьєва І.А.</teacher>
+        <day>3</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Інвестування (фін.)</disciplin>
+        <teacher>ст. викл. Дяковський Д.А.</teacher>
+        <day>3</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1</weeks>
+        <audience>6-401</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Інвестування (фін.)</disciplin>
+        <teacher>ст. викл. Дяковський Д.А.</teacher>
+        <day>3</day>
+        <time>13:30 - 14:50</time>
+        <weeks>2-6</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Інвестування (фін.)</disciplin>
+        <teacher>ст. викл. Дяковський Д.А.</teacher>
+        <day>3</day>
+        <time>15:00 - 16:20</time>
+        <weeks>1</weeks>
+        <audience>6-401</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Інвестування (фін.)</disciplin>
+        <teacher>ст. викл. Дяковський Д.А.</teacher>
+        <day>3</day>
+        <time>15:00 - 16:20</time>
+        <weeks>2</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Економіка підприємства (марк.)</disciplin>
+        <teacher>доц. Романченко Н.В.</teacher>
+        <day>3</day>
+        <time>15:00 - 16:20</time>
+        <weeks>1-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Економіка підприємства (марк.)</disciplin>
+        <teacher>доц. Романченко Н.В.</teacher>
+        <day>3</day>
+        <time>16:30 - 17:50</time>
+        <weeks>1</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--Четвер-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Страхування (фін.)</disciplin>
+        <teacher>доц. Бридун Є.В.</teacher>
+        <day>4</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Гроші та кредит (екон.)</disciplin>
+        <teacher>проф. Кужелєв М.О.</teacher>
+        <day>4</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1,2,3</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Гроші та кредит (фін.+мар.)</disciplin>
+        <teacher>доц. Глущенко С.В.</teacher>
+        <day>4</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Страхування (фін.)</disciplin>
+        <teacher>доц. Бридун Є.В.</teacher>
+        <day>4</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Гроші та кредит (фін.+мар.)</disciplin>
+        <teacher>доц. Глущенко С.В.</teacher>
+        <day>4</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1,2,3</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Інноваційна модель економ. розвитку (екон.)</disciplin>
+        <teacher>проф. Бажал Ю.М.</teacher>
+        <day>4</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1,2,3,4,7,8,9,10</weeks>
+        <audience>6-301</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Менеджмент (фінанси)</disciplin>
+        <teacher>проф. Сидоренко С.В.</teacher>
+        <day>4</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Конкурентна розвідка (мен, мар)</disciplin>
+        <teacher>ст. викл. Синько Д.</teacher>
+        <day>4</day>
+        <time>13:30 - 14:50</time>
+        <weeks>2-7</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Менеджмент (фінанси)</disciplin>
+        <teacher>проф. Сидоренко С.В.</teacher>
+        <day>4</day>
+        <time>15:00 - 16:20</time>
+        <weeks>1</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Конкурентна розвідка (мен, мар)</disciplin>
+        <teacher>ст. викл. Синько Д.</teacher>
+        <day>4</day>
+        <time>13:30 - 14:50</time>
+        <weeks>2</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--П'ятниця-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Економіка підприємства (ек.)</disciplin>
+        <teacher>ст.викл. Ваврищук Н.Г.</teacher>
+        <day>5</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Економіко-математичне моделювання-ІІ (Економетрика) (фін.)</disciplin>
+        <teacher>ст. викл. Дадашова П.А.</teacher>
+        <day>5</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Projekt менеджмент (марк, мен)</disciplin>
+        <teacher>доц. Гуменна О.В.</teacher>
+        <day>5</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Економіко-математичне моделювання-ІІ (Економетрика) (фін.)</disciplin>
+        <teacher>ст. викл. Дадашова П.А.</teacher>
+        <day>5</day>
+        <time>11:40 - 13:00</time>
+        <weeks>2,3</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Економіко-математичне моделювання-ІІ (Економетрика) (марк,мен)</disciplin>
+        <teacher>ст.викл. Яценко Г.Ю.</teacher>
+        <day>5</day>
+        <time>11:40 - 13:00</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Економіко-математичне моделювання-ІІ (Економетрика) (марк,мен)</disciplin>
+        <teacher>ст.викл. Яценко Г.Ю.</teacher>
+        <day>5</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1,2,3</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--Субота-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Комп’ютерна бізнес-статистика</disciplin>
+        <teacher>доц. Братик М.В.</teacher>
+        <day>5</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Комп’ютерна бізнес-статистика</disciplin>
+        <teacher>доц. Братик М.В.</teacher>
+        <day>5</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1,2,4,5,6,7,8,9,10,11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Економіка підприємства (фін.)</disciplin>
+        <teacher>ст. викл. Храбан А.М.</teacher>
+        <day>5</day>
+        <time>13:30 - 14:50</time>
+        <weeks>2-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+
+
+
+    <!--Понеділок-->
+    <pair>
+        <group>1</group>
+        <disciplin>Навчально-науковий семінар з економіки (екон.)</disciplin>
+        <teacher>проф. Бураковський І.В.</teacher>
+        <day>1</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1-14</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Макро- та мікроеконом. моделюв. (екон.)</disciplin>
+        <teacher>ст.викл. Яценко Г.Ю.</teacher>
+        <day>1</day>
+        <time>11:40 - 13:00</time>
+        <weeks>3-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Моделювання та управління фінансовими активами (фін.)</disciplin>
+        <teacher>проф. Долінський Л.Б.</teacher>
+        <day>1</day>
+        <time>11:40 - 13:00</time>
+        <weeks>2-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Маркетинг впливу (мар.) (Custumer experience)</disciplin>
+        <teacher>ст.викл. Мехед Т.М.</teacher>
+        <day>1</day>
+        <time>11:40 - 13:00</time>
+        <weeks>5-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Макро- та мікроеконом. моделюв. (екон.)</disciplin>
+        <teacher>ст.викл. Яценко Г.Ю.</teacher>
+        <day>1</day>
+        <time>13:30 - 14:50</time>
+        <weeks>3-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Маркетинг впливу (мар.) (Custumer experience)</disciplin>
+        <teacher>ст.викл. Мехед Т.М.</teacher>
+        <day>1</day>
+        <time>13:30 - 14:50</time>
+        <weeks>5-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Маркетинг І (маркетинг) ст. викл.</disciplin>
+        <teacher>Демчук З.О., Мельник В.В.</teacher>
+        <day>1</day>
+        <time>13:30 - 14:50</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Маркетинг І (маркетинг) ст. викл.</disciplin>
+        <teacher>Демчук З.О., Мельник В.В.</teacher>
+        <day>1</day>
+        <time>16:30 - 17:50</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Основи соціології (ек)</disciplin>
+        <teacher>ст.викл. Артикуца С.С.</teacher>
+        <day>1</day>
+        <time>16:30 - 17:50</time>
+        <weeks>4-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--Вівторок-->
+    <pair>
+        <group>1</group>
+        <disciplin>Маркетинг (менеджмент)</disciplin>
+        <teacher>ст.викл. Бурбело Н.О.</teacher>
+        <day>2</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Гроші та кредит (фін.+мар.)</disciplin>
+        <teacher>доц. Глущенко С.В.</teacher>
+        <day>2</day>
+        <time>11:40 - 13:00</time>
+        <weeks>4-12</weeks>
+        <audience>6-204</audience>
+    </pair>
+    <pair>
+        <group>4</group>
+        <disciplin>Гроші та кредит (екон.+мен.)</disciplin>
+        <teacher>проф. Кужелєв М.О.</teacher>
+        <day>2</day>
+        <time>13:30 - 14:50</time>
+        <weeks>4-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Страхування (фін.)</disciplin>
+        <teacher>доц. Бридун Є.В.</teacher>
+        <day>2</day>
+        <time>13:30 - 14:50</time>
+        <weeks>2-7</weeks>
+        <audience>6-2</audience>
+    </pair>
+    <pair>
+        <group>5</group>
+        <disciplin>Економіка підприємства (фін.)</disciplin>
+        <teacher>ст. викл. Храбан А.М.</teacher>
+        <day>2</day>
+        <time>15:00 - 16:20</time>
+        <weeks>3-9</weeks>
+        <audience>6-2</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Моделювання та управління фінансовими активами (фін.)</disciplin>
+        <teacher>проф. Долінський Л.Б.</teacher>
+        <day>2</day>
+        <time>16:30 - 17:50</time>
+        <weeks>2-8</weeks>
+        <audience>6-2</audience>
+    </pair>
+
+
+    <!--Середа-->
+    <pair>
+        <group>1</group>
+        <disciplin>Digital – маркетинг (марк.)</disciplin>
+        <teacher>доц. Пічик К.В., доц. Козченко Я.В., ст.викл. Мельник В.В.</teacher>
+        <day>3</day>
+        <time>8:30 - 9:50</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Менеджмент (економ. теор.)</disciplin>
+        <teacher>проф. Ігнатьєва І.А.</teacher>
+        <day>3</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Корпоративні фінанси (фін.)</disciplin>
+        <teacher>доц. Прімєрова О.К.</teacher>
+        <day>3</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2,3,7,10,11,12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Digital – маркетинг (марк.)</disciplin>
+        <teacher>доц. Пічик К.В., доц. Козченко Я.В., ст.викл. Мельник В.В.</teacher>
+        <day>3</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Менеджмент (економ. теор.)</disciplin>
+        <teacher>проф. Ігнатьєва І.А.</teacher>
+        <day>3</day>
+        <time>11:40 - 13:00</time>
+        <weeks>2-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Інвестування (фін.)</disciplin>
+        <teacher>ст. викл. Дяковський Д.А.</teacher>
+        <day>3</day>
+        <time>11:40 - 13:00</time>
+        <weeks>3</weeks>
+        <audience>6-401</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Інвестування (фін.)</disciplin>
+        <teacher>ст. викл. Дяковський Д.А.</teacher>
+        <day>3</day>
+        <time>11:40 - 13:00</time>
+        <weeks>4-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Корпоративні фінанси (фін.)</disciplin>
+        <teacher>доц. Прімєрова О.К.</teacher>
+        <day>3</day>
+        <time>11:40 - 13:00</time>
+        <weeks>5,8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Digital – маркетинг (марк.)</disciplin>
+        <teacher>доц. Пічик К.В., доц. Козченко Я.В., ст.викл. Мельник В.В.</teacher>
+        <day>3</day>
+        <time>11:40 - 13:00</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>4</group>
+        <disciplin>Економіко-математичне моделювання-ІІ (Економетрика) (марк,мен)</disciplin>
+        <teacher>ст.викл. Яценко Г.Ю.</teacher>
+        <day>3</day>
+        <time>11:40 - 13:00</time>
+        <weeks>4-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>5</group>
+        <disciplin>Економіко-математичне моделювання-ІІ (Економетрика) (марк,мен)</disciplin>
+        <teacher>ст.викл. Яценко Г.Ю.</teacher>
+        <day>3</day>
+        <time>13:30 - 14:50</time>
+        <weeks>4-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Інвестування (фін.)</disciplin>
+        <teacher>ст. викл. Дяковський Д.А.</teacher>
+        <day>3</day>
+        <time>15:00 - 16:20</time>
+        <weeks>3</weeks>
+        <audience>6-401</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Інвестування (фін.)</disciplin>
+        <teacher>ст. викл. Дяковський Д.А.</teacher>
+        <day>3</day>
+        <time>15:00 - 16:20</time>
+        <weeks>4-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Економіка підприємства (марк.)</disciplin>
+        <teacher>доц. Романченко Н.В.</teacher>
+        <day>3</day>
+        <time>15:00 - 16:20</time>
+        <weeks>10,11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Економіка підприємства (марк.)</disciplin>
+        <teacher>доц. Романченко Н.В.</teacher>
+        <day>3</day>
+        <time>15:00 - 16:20</time>
+        <weeks>12,13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Економіка підприємства (марк.)</disciplin>
+        <teacher>доц. Романченко Н.В.</teacher>
+        <day>3</day>
+        <time>16:30 - 17:50</time>
+        <weeks>2-14</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--Четвер-->
+    <pair>
+        <group>1</group>
+        <disciplin>Projekt менеджмент (марк, мен.)</disciplin>
+        <teacher>ст.викл. Волошин А.В.</teacher>
+        <day>4</day>
+        <time>8:30 - 9:50</time>
+        <weeks>3-13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>5</group>
+        <disciplin>Гроші та кредит (екон.+мен.)</disciplin>
+        <teacher>проф. Кужелєв М.О.</teacher>
+        <day>4</day>
+        <time>10:00 - 11:20</time>
+        <weeks>4-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Страхування (фін.)</disciplin>
+        <teacher>доц. Бридун Є.В.</teacher>
+        <day>4</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-7</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>6</group>
+        <disciplin>Гроші та кредит (екон.+мен.)</disciplin>
+        <teacher>проф. Кужелєв М.О.</teacher>
+        <day>4</day>
+        <time>11:40 - 13:00</time>
+        <weeks>4-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Гроші та кредит (фін.+мар.)</disciplin>
+        <teacher>доц. Глущенко С.В.</teacher>
+        <day>4</day>
+        <time>11:40 - 13:00</time>
+        <weeks>4-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Гроші та кредит (фін.+мар.)</disciplin>
+        <teacher>доц. Глущенко С.В.</teacher>
+        <day>4</day>
+        <time>13:30 - 14:50</time>
+        <weeks>4-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Інноваційна модель економ. розвитку (екон.)</disciplin>
+        <teacher>проф. Бажал Ю.М.</teacher>
+        <day>1</day>
+        <time>15:00 - 16:20</time>
+        <weeks>3,4,7,8,9,10</weeks>
+        <audience>6-301</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Менеджмент (фінанси)</disciplin>
+        <teacher>проф. Сидоренко С.В..</teacher>
+        <day>4</day>
+        <time>15:00 - 16:20</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Конкурентна розвідка (мен, мар)</disciplin>
+        <teacher>ст. викл. Синько Д.</teacher>
+        <day>4</day>
+        <time>15:00 - 16:20</time>
+        <weeks>3-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Менеджмент (фінанси)</disciplin>
+        <teacher>проф. Сидоренко С.В..</teacher>
+        <day>4</day>
+        <time>16:30 - 17:50</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Конкурентна розвідка (мен, мар)</disciplin>
+        <teacher>ст. викл. Синько Д.</teacher>
+        <day>4</day>
+        <time>16:30 - 17:50</time>
+        <weeks>3-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--П'ятниця-->
+    <pair>
+        <group>3</group>
+        <disciplin>Комп’ютерна бізнес-статистика</disciplin>
+        <teacher>доц. Братик М.В.</teacher>
+        <day>5</day>
+        <time>8:30 - 9:50</time>
+        <weeks>2,4,5,6,7,8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Комп’ютерна бізнес-статистика</disciplin>
+        <teacher>доц. Братик М.В.</teacher>
+        <day>5</day>
+        <time>8:30 - 9:50</time>
+        <weeks>9-14</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Економіка підприємства (ек.)</disciplin>
+        <teacher>ст.викл. Ваврищук Н.Г.</teacher>
+        <day>5</day>
+        <time>11:40 - 13:00</time>
+        <weeks>3-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Економіко-математичне моделювання-ІІ (Економетрика) (фін.)</disciplin>
+        <teacher>ст. викл. Дадашова П.А.</teacher>
+        <day>5</day>
+        <time>11:40 - 13:00</time>
+        <weeks>4-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Економіка підприємства (ек.)</disciplin>
+        <teacher>ст.викл. Ваврищук В.В.</teacher>
+        <day>5</day>
+        <time>13:30 - 14:50</time>
+        <weeks>3-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Економіко-математичне моделювання-ІІ (Економетрика) (фін.)</disciplin>
+        <teacher>ст. викл. Дадашова П.А.</teacher>
+        <day>5</day>
+        <time>13:30 - 14:50</time>
+        <weeks>4-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Економіко-математичне моделювання-ІІ (Економетрика) (марк,мен)</disciplin>
+        <teacher>ст.викл. Яценко Г.Ю</teacher>
+        <day>5</day>
+        <time>13:30 - 14:50</time>
+        <weeks>4-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Управління брендом роботодавця (мен.)</disciplin>
+        <teacher>асист. Юрченко Я.В.</teacher>
+        <day>5</day>
+        <time>13:30 - 14:50</time>
+        <weeks>4-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Економіка підприємства (марк.)</disciplin>
+        <teacher>доц. Романченко Н.В.</teacher>
+        <day>5</day>
+        <time>15:00 - 16:20</time>
+        <weeks>2-14</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Управління брендом роботодавця (мен.)</disciplin>
+        <teacher>асист. Юрченко Я.В.</teacher>
+        <day>5</day>
+        <time>15:00 - 16:20</time>
+        <weeks>4-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--Субота-->
+    <pair>
+        <group>1</group>
+        <disciplin>Комп’ютерна бізнес-статистика</disciplin>
+        <teacher>доц. Братик М.В.</teacher>
+        <day>6</day>
+        <time>8:30 - 9:50</time>
+        <weeks>2,4,5,6,7,8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Комп’ютерна бізнес-статистика</disciplin>
+        <teacher>доц. Братик М.В.</teacher>
+        <day>6</day>
+        <time>8:30 - 9:50</time>
+        <weeks>9-13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Комп’ютерна бізнес-статистика</disciplin>
+        <teacher>доц. Братик М.В.</teacher>
+        <day>6</day>
+        <time>10:00 - 11:20</time>
+        <weeks>12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Комп’ютерна бізнес-статистика</disciplin>
+        <teacher>доц. Братик М.В.</teacher>
+        <day>6</day>
+        <time>10:00 - 11:20</time>
+        <weeks>13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Комп’ютерна бізнес-статистика</disciplin>
+        <teacher>доц. Братик М.В.</teacher>
+        <day>6</day>
+        <time>11:40 - 13:00</time>
+        <weeks>9-13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Комп’ютерна бізнес-статистика</disciplin>
+        <teacher>доц. Братик М.В.</teacher>
+        <day>6</day>
+        <time>11:40 - 13:00</time>
+        <weeks>2,4,5,6,7,8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Економіка підприємства (фін.)</disciplin>
+        <teacher>ст. викл. Храбан А.М.</teacher>
+        <day>6</day>
+        <time>15:00 - 16:20</time>
+        <weeks>3-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>4</group>
+        <disciplin>Економіка підприємства (фін.)</disciplin>
+        <teacher>ст. викл. Храбан А.М.</teacher>
+        <day>6</day>
+        <time>16:30 - 17:50</time>
+        <weeks>3-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+</pairs>
+
+
+
+
+

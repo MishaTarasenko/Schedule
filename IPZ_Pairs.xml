@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pairs>
+    <!--Понеділок-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Методи об'єктно-орієнтованого програмування</disciplin>
+        <teacher>доц. В.В. Бублик</teacher>
+        <day>1</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Системне програмування</disciplin>
+        <teacher>доц. О.П. Жежерун</teacher>
+        <day>1</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+    <!--Вівторок-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Комп'ютерна вірусологія</disciplin>
+        <teacher>ст.викл. О.В. Кирієнко</teacher>
+        <day>2</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1-5</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Пошукова оптимізація Веб-застосувань</disciplin>
+        <teacher>ас. В.В. Цуд</teacher>
+        <day>2</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+    <!--Середа-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Інструменти та принципи веб-розробки</disciplin>
+        <teacher>ас. Д.В. Зважій</teacher>
+        <day>3</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Технологія мультимедіа</disciplin>
+        <teacher>доц. А.О. Афонін</teacher>
+        <day>3</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Мова програмування Swift</disciplin>
+        <teacher>ас. О.О.Франків</teacher>
+        <day>3</day>
+        <time>15:00 - 16:20</time>
+        <weeks>1-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+    <!--Четвер-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Основи роботи з фреймворком Spring Boot</disciplin>
+        <teacher>ас. М.В. Андрощук</teacher>
+        <day>4</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1-13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Функціональне програмування</disciplin>
+        <teacher>доц. В.С. Проценко</teacher>
+        <day>4</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Розробка користувацького інтерфейсу (UI/UX)</disciplin>
+        <teacher>ас. О.В. Бітаєва</teacher>
+        <day>4</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+    <!--П'ятниця-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. Т.А. Бабич</teacher>
+        <day>5</day>
+        <time>15:00 - 16:20</time>
+        <weeks>1-13</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+    <!--Субота-->
+    <pair>
+        <group>Лекція</group>
+        <disciplin>Схематотехніка</disciplin>
+        <teacher>cт. викл..Я.І. Вознюк</teacher>
+        <day>6</day>
+        <time>8:30 - 9:50</time>
+        <weeks>2-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+
+
+
+
+    <!--Понеділок-->
+    <pair>
+        <group>1</group>
+        <disciplin>Методи об'єктно-орієнтованого програмування</disciplin>
+        <teacher>доц. В.В. Бублик</teacher>
+        <day>1</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Системне програмування</disciplin>
+        <teacher>доц. О.П. Жежерун</teacher>
+        <day>1</day>
+        <time>15:00 - 16:20</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Системне програмування</disciplin>
+        <teacher>доц. О.П. Жежерун</teacher>
+        <day>1</day>
+        <time>16:30 - 17:50</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Системне програмування</disciplin>
+        <teacher>доц. О.П. Жежерун</teacher>
+        <day>1</day>
+        <time>18:00 - 19:20</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--Вівторок-->
+    <pair>
+        <group>1</group>
+        <disciplin>Комп'ютерна вірусологія</disciplin>
+        <teacher>ст.викл. О.В. Кирієнко</teacher>
+        <day>2</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Комп'ютерна вірусологія</disciplin>
+        <teacher>ст.викл. О. М. Пєчкурова</teacher>
+        <day>2</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Комп'ютерна вірусологія</disciplin>
+        <teacher>ст.викл. О.В. Кирієнко</teacher>
+        <day>2</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>4</group>
+        <disciplin>Комп'ютерна вірусологія</disciplin>
+        <teacher>ст.викл. О. М. Пєчкурова</teacher>
+        <day>2</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Пошукова оптимізація Веб-застосувань</disciplin>
+        <teacher>ас. В.В. Цуд</teacher>
+        <day>2</day>
+        <time>15:00 - 16:20</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>4</group>
+        <disciplin>Системне програмування</disciplin>
+        <teacher>доц. О.П. Жежерун</teacher>
+        <day>2</day>
+        <time>15:00 - 16:20</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>5</group>
+        <disciplin>Системне програмування</disciplin>
+        <teacher>доц. О.П. Жежерун</teacher>
+        <day>2</day>
+        <time>16:30 - 17:50</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Пошукова оптимізація Веб-застосувань</disciplin>
+        <teacher>ас. В.В. Цуд</teacher>
+        <day>2</day>
+        <time>16:30 - 17:50</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--Середа-->
+    <pair>
+        <group>3</group>
+        <disciplin>Мова програмування Swift</disciplin>
+        <teacher>ас. О.О.Франків</teacher>
+        <day>3</day>
+        <time>11:40 - 13:00</time>
+        <weeks>2-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>10</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. С. В.Яремко</teacher>
+        <day>3</day>
+        <time>11:40 - 13:00</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Технологія мультимедіа</disciplin>
+        <teacher>доц. А.О. Афонін</teacher>
+        <day>3</day>
+        <time>11:40 - 13:00</time>
+        <weeks>2-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>4</group>
+        <disciplin>Мова програмування Swift</disciplin>
+        <teacher>ас. О.О.Франків</teacher>
+        <day>3</day>
+        <time>13:30 - 14:50</time>
+        <weeks>2-8</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Технологія мультимедіа</disciplin>
+        <teacher>доц. А.О. Афонін</teacher>
+        <day>3</day>
+        <time>13:30 - 14:50</time>
+        <weeks>2-9</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Мова програмування Swift</disciplin>
+        <teacher>ас. О.О.Франків</teacher>
+        <day>3</day>
+        <time>16:30 - 17:50</time>
+        <weeks>1-7</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>8</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. О.В,Радзієвська</teacher>
+        <day>3</day>
+        <time>16:30 - 17:50</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>9</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. О.В,Радзієвська</teacher>
+        <day>3</day>
+        <time>18:00 - 19:20</time>
+        <weeks>2-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Мова програмування Swift</disciplin>
+        <teacher>ас. О.О.Франків</teacher>
+        <day>3</day>
+        <time>18:00 - 19:20</time>
+        <weeks>1-7</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--Четвер-->
+    <pair>
+        <group>1</group>
+        <disciplin>Функціональне програмування</disciplin>
+        <teacher>доц. В.С. Проценко</teacher>
+        <day>4</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Розробка користувацького інтерфейсу (UI/UX)</disciplin>
+        <teacher>ас. О.В. Бітаєва</teacher>
+        <day>4</day>
+        <time>15:00 - 16:20</time>
+        <weeks>1-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>4</group>
+        <disciplin>Функціональне програмування</disciplin>
+        <teacher>ас. О.В.Радзієвська</teacher>
+        <day>4</day>
+        <time>15:00 - 16:20</time>
+        <weeks>2-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Функціональне програмування</disciplin>
+        <teacher>ас. О.В.Радзієвська</teacher>
+        <day>4</day>
+        <time>16:30 - 17:50</time>
+        <weeks>2-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Розробка користувацького інтерфейсу (UI/UX)</disciplin>
+        <teacher>ас. О.В. Бітаєва</teacher>
+        <day>4</day>
+        <time>16:30 - 17:20</time>
+        <weeks>1-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>5</group>
+        <disciplin>Функціональне програмування</disciplin>
+        <teacher>ас. О.В.Радзієвська</teacher>
+        <day>4</day>
+        <time>18:00 - 19:20</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Розробка користувацького інтерфейсу (UI/UX)</disciplin>
+        <teacher>ас. О.В. Бітаєва</teacher>
+        <day>4</day>
+        <time>18:00 - 19:20</time>
+        <weeks>1-12</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--П'ятниця-->
+    <pair>
+        <group>1</group>
+        <disciplin>Основи роботи з фреймворком Spring Boot</disciplin>
+        <teacher>ас. М.В. Андрощук</teacher>
+        <day>5</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1-14</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Інструменти та принципи веб-розробки</disciplin>
+        <teacher>ас. Д.В. Зважій</teacher>
+        <day>5</day>
+        <time>8:30 - 9:50</time>
+        <weeks>1-7</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Основи роботи з фреймворком Spring Boot</disciplin>
+        <teacher>ас. М.В. Андрощук</teacher>
+        <day>5</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-14</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Інструменти та принципи веб-розробки</disciplin>
+        <teacher>ас. Д.В. Зважій</teacher>
+        <day>5</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-7</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>3</group>
+        <disciplin>Основи роботи з фреймворком Spring Boot</disciplin>
+        <teacher>ас. М.В. Андрощук</teacher>
+        <day>5</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1-14</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>4</group>
+        <disciplin>Інструменти та принципи веб-розробки</disciplin>
+        <teacher>ас. Д.В. Зважій</teacher>
+        <day>5</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1-7</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Функціональне програмування</disciplin>
+        <teacher>доц. В.С. Проценко</teacher>
+        <day>5</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1-11</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Інструменти та принципи веб-розробки</disciplin>
+        <teacher>ас. Д.В. Зважій</teacher>
+        <day>5</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1-7</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. О.В,Радзієвська</teacher>
+        <day>5</day>
+        <time>16:30 - 17:50</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>2</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. О.В,Радзієвська</teacher>
+        <day>5</day>
+        <time>18:00 - 19:20</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+
+
+    <!--Субота-->
+    <pair>
+        <group>3</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. О.В,Радзієвська</teacher>
+        <day>6</day>
+        <time>10:00 - 11:20</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>1</group>
+        <disciplin>Схематотехніка</disciplin>
+        <teacher>cт. викл..Я.І. Вознюк</teacher>
+        <day>6</day>
+        <time>10:00 - 11:20</time>
+        <weeks>2-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>4</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. О.В,Радзієвська</teacher>
+        <day>6</day>
+        <time>11:40 - 13:00</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>5</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. О.В,Радзієвська</teacher>
+        <day>6</day>
+        <time>13:30 - 14:50</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>6</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. О.В,Радзієвська</teacher>
+        <day>6</day>
+        <time>15:00 - 16:20</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+    <pair>
+        <group>7</group>
+        <disciplin>Інформаційна безпека веб-застосунків</disciplin>
+        <teacher>ас. О.В,Радзієвська</teacher>
+        <day>6</day>
+        <time>16:30 - 17:50</time>
+        <weeks>1-10</weeks>
+        <audience>Дистанційно</audience>
+    </pair>
+</pairs>
+
+
+
+
+
